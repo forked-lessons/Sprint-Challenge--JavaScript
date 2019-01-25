@@ -17,6 +17,7 @@ const tyrannosaurus = {
     return "RAWERSRARARWERSARARARRRR!"
   }
 }
+
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
 const stegosaurus = {
   name: 'Stegosaurus',
